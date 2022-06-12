@@ -1,0 +1,13 @@
+﻿  function.cpp
+  main.cpp
+D:\C++\Project\Tetris\Tetris\main.cpp(49,64): warning C4305: =: усечение из "double" в "float"
+D:\C++\Project\Tetris\Tetris\main.cpp(146,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\C++\Project\Tetris\Tetris\main.cpp(146,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\C++\Project\Tetris\Tetris\main.cpp(154,64): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\C++\Project\Tetris\Tetris\main.cpp(154,43): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Создание кода...
+main.obj : error LNK2005: "int __cdecl GetRandomNumber(int,int)" (?GetRandomNumber@@YAHHH@Z) уже определен в function.obj
+main.obj : error LNK2005: "bool __cdecl check(struct Point const *)" (?check@@YA_NPBUPoint@@@Z) уже определен в function.obj
+main.obj : error LNK2005: "void __cdecl translateOnFigure(int,struct Point *)" (?translateOnFigure@@YAXHPAUPoint@@@Z) уже определен в function.obj
+main.obj : error LNK2005: "int (* playField)[10]" (?playField@@3PAY09HA) уже определен в function.obj
+D:\C++\Project\Tetris\Debug\Tetris.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более

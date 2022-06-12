@@ -1,0 +1,12 @@
+﻿  main.cpp
+D:\C++\Project\Tetris\Tetris\main.cpp(97,64): warning C4305: =: усечение из "double" в "float"
+D:\C++\Project\Tetris\Tetris\main.cpp(194,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\C++\Project\Tetris\Tetris\main.cpp(194,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\C++\Project\Tetris\Tetris\main.cpp(202,64): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\C++\Project\Tetris\Tetris\main.cpp(202,43): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Создание кода
+  2 of 99 functions ( 2.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Tetris.vcxproj -> D:\C++\Project\Tetris\Release\Tetris.exe
